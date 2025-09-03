@@ -1,5 +1,5 @@
 {
-  "name": "encode-hooks",
+  "name": "cy-hooks",
   "version": "0.1.0",
   "description": "印客学院 React 业务 Hooks",
   "keywords": [
@@ -10,7 +10,7 @@
   "main": "./lib/index.js",
   "module": "./es/index.js",
   "types": "./lib/index.d.ts",
-  "unpkg": "dist/encode-hooks.js",
+  "unpkg": "dist/cy-hooks.js",
   "sideEffects": false,
   "authors": "chenghuai",
   "publishConfig": {

@@ -1,5 +1,5 @@
 {
-  "name": "encode-hooks",
+  "name": "cy-hooks",
   "description": "印客学院 React 业务 Hooks",
   "private": true,
   "scripts": {

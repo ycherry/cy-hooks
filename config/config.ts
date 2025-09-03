@@ -6,7 +6,7 @@ export default {
     type: 'none',
     exclude: [],
   },
-  publicPath: '/encode-hooks/',
+  publicPath: '/cy-hooks/',
   history: { type: 'hash' },
   extraBabelPlugins: [
     [
