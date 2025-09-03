@@ -30,4 +30,4 @@ jobs:
         with:
           BRANCH: gh-pages
           FOLDER: dist
-          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          ACCESS_TOKEN: ${{ secrets.CY_HOOKS_ACCESS_TOKEN }}
