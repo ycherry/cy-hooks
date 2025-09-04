@@ -30,7 +30,7 @@ jobs:
           pnpm run build:doc
 
       - name: Deploy
-        uses: JamesIves/github-pages-deploy-action@4.1.3
+        uses: JamesIves/github-pages-deploy-action@4
         with:
           BRANCH: gh-pages
           FOLDER: dist
