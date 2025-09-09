@@ -82,5 +82,8 @@
       "pre-commit": "encode-fe-lint commit-file-scan",
       "commit-msg": "encode-fe-lint commit-msg-scan"
     }
+  },
+  "dependencies": {
+    "encode-code-review": "^0.1.0"
   }
 }
